@@ -1,9 +1,7 @@
 # Matrix shortcut
 This app is a little tool with which you can send messages to a matrix server via gestures you configured before. The possible gesture buttons are only physical ones (volume up and down key) because the app's idea is that you can perform gestures also in your pants pocket. For example you're are right about to arive at home and want to open your door or turn the lights on.
 
-<img src="doc/main.png" height="500"/>
-<img src="doc/entry.png" height="500"/>
-<img src="doc/settings.png" height="500"/>
+<img src="doc/main.png" height="500"/> <img src="doc/entry.png" height="500"/> <img src="doc/settings.png" height="500"/>
 
 ## Features
 - Configure matrix server
