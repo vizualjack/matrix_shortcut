@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matrix Shortcut</string>
+    <string name="accessibility_service_label">Matrix Shortcut Service</string>
+    <string name="accessibility_service_description">Checks for shortcuts and send messages</string>
+</resources>
